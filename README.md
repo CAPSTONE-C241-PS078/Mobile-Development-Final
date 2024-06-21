@@ -22,5 +22,3 @@ The app integrates with the news API from cloud computing to display the latest 
 
 ### Integration with Machine Learning
 This application integrates with Machine Learning to make predictions of normal, immature, mature eyes.
-
-Translated with DeepL.com (free version)
