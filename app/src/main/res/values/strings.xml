@@ -1,0 +1,64 @@
+<resources>
+    <!-- App and Activity Titles -->
+    <string name="app_name">CatarActNow</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Analyze</string>
+    <string name="title_news">News</string>
+    <string name="title_analyze">Analyze</string>
+    <string name="title_result">Result</string>
+
+    <!-- Welcome Message -->
+    <string name="welcome">Welcome to CatarActNow !!!\nDetect Early Signs of Cataracts with Ease</string>
+
+    <!-- Login/Register Form -->
+    <string name="masukan_email">Enter email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="not_have_account">Don\'t Have an Account?</string>
+    <string name="masukan_nama_lengkap">Enter Full Name</string>
+
+    <!-- Analysis Screen -->
+    <string name="import_from_gallery">Import From Gallery</string>
+    <string name="loading">Loading...</string>
+    <string name="save_button">Save Analysis</string>
+    <string name="result">Analysis Result:</string>
+    <string name="result_type">Type</string>
+    <string name="result_suggestion">Suggestion</string>
+    <string name="analysis_image">Analysis Image</string>
+    <string name="analysis_type">Type: %s</string>
+
+    <!-- Gallery -->
+    <string name="gallery">Gallery</string>
+    <string name="analyze">Analyze Images</string>
+
+    <!-- General Terms -->
+    <string name="judul">Title</string>
+    <string name="desc">Desc</string>
+    <string name="history">History</string>
+    <string name="score">Score</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+
+    <!-- Error Messages -->
+    <string name="classifier_setup_error_handling">Error Initializing Image Classifier, please refer to the error log for additional information</string>
+    <string name="analysis_error">Oops, we encountered a problem while analyzing the image, \nPlease attempt again later</string>
+
+    <!-- Registration Validation Messages -->
+    <string name="message_enter_fullname">Please enter your full name</string>
+    <string name="message_enter_email">Please enter your email</string>
+    <string name="message_valid_email">Please enter a valid email</string>
+    <string name="message_enter_password">Please enter your password</string>
+    <string name="message_password_length">Password must be at least 8 characters</string>
+    <string name="message_password_uppercase">Password must contain at least one uppercase letter</string>
+    <string name="message_registration_success">Registration successful. Please login.</string>
+    <string name="message_invalid_user_data">Invalid user data.</string>
+    <string name="message_registration_failed">Registration failed: </string>
+    <string name="message_unknown_error">Unknown error occurred.</string>
+    <string name="message_registering">Registering...</string>
+    <string name="message_logging_in">Logging in...</string>
+    <string name="message_login_failed">Login failed: </string>
+
+</resources>

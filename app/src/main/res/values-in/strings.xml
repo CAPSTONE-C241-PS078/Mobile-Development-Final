@@ -1,0 +1,64 @@
+<resources>
+    <!-- Judul Aplikasi dan Aktivitas -->
+    <string name="app_name">CatarActNow</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Analisis</string>
+    <string name="title_news">Berita</string>
+    <string name="title_analyze">Analisis</string>
+    <string name="title_result">Hasil</string>
+
+    <!-- Pesan Selamat Datang -->
+    <string name="welcome">Selamat Datang di CatarActNow !!!\nDeteksi Tanda-Tanda Awal Katarak dengan Mudah</string>
+
+    <!-- Form Login/Registrasi -->
+    <string name="masukan_email">Masukkan email</string>
+    <string name="login">Masuk</string>
+    <string name="password">Kata Sandi</string>
+    <string name="email">Email</string>
+    <string name="register">Daftar</string>
+    <string name="not_have_account">Belum Punya Akun?</string>
+    <string name="masukan_nama_lengkap">Masukkan Nama Lengkap</string>
+
+    <!-- Layar Analisis -->
+    <string name="import_from_gallery">Impor Dari Galeri</string>
+    <string name="loading">Memuat...</string>
+    <string name="save_button">Simpan Analisis</string>
+    <string name="result">Hasil Analisis :</string>
+    <string name="result_type">Jenis</string>
+    <string name="result_suggestion">Saran</string>
+    <string name="analysis_image">Gambar Analisis</string>
+    <string name="analysis_type">Jenis: %s</string>
+
+    <!-- Galeri -->
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analisis Gambar</string>
+
+    <!-- Istilah Umum -->
+    <string name="judul">Judul</string>
+    <string name="desc">Deskripsi</string>
+    <string name="history">Riwayat</string>
+    <string name="score">Nilai</string>
+    <string name="category">Kategori</string>
+    <string name="date">Tanggal</string>
+
+    <!-- Pesan Kesalahan -->
+    <string name="classifier_setup_error_handling">Kesalahan Memulai Pengklasifikasi Gambar, silakan lihat log kesalahan untuk informasi tambahan</string>
+    <string name="analysis_error">Oops, kami mengalami masalah saat menganalisis gambar, \nSilakan coba lagi nanti</string>
+
+    <!-- Pesan Validasi Registrasi -->
+    <string name="message_enter_fullname">Masukkan nama lengkap Anda</string>
+    <string name="message_enter_email">Masukkan alamat email Anda</string>
+    <string name="message_valid_email">Masukkan alamat email yang valid</string>
+    <string name="message_enter_password">Masukkan kata sandi Anda</string>
+    <string name="message_password_length">Kata sandi harus minimal 8 karakter</string>
+    <string name="message_password_uppercase">Kata sandi harus mengandung minimal satu huruf besar</string>
+    <string name="message_registration_success">Registrasi berhasil. Silakan masuk.</string>
+    <string name="message_invalid_user_data">Data pengguna tidak valid.</string>
+    <string name="message_registration_failed">Registrasi gagal: </string>
+    <string name="message_unknown_error">Terjadi kesalahan yang tidak diketahui.</string>
+    <string name="message_registering">Sedang mendaftar...</string>
+    <string name="message_logging_in">Sedang masuk...</string>
+    <string name="message_login_failed">Login gagal: </string>
+
+</resources>
